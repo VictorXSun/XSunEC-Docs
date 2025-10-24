@@ -31,9 +31,9 @@ All verification steps have been successfully completed.
 | Step | Evidence | Status |
 |------|-----------|---------|
 | Brand ownership claim | https://brandfetch.com/xsunec.com — Claimed brand page | ✅ Verified |
-| Web Dashboard Verification | ![Brandfetch Dashboard Verification](../_evidence/Brandfetch_Dashboard_xsunec_com_verified.png) | ✅ |
-| API Endpoint Response | ![API Unauthorized Response](../_evidence/Brandfetch_API_Response_Unauthorized.png) | ✅ |
-| Public Assets on Pages | ![Public Assets on Pages](../_evidence/Brandfetch_Public_Assets_on_Pages.png) | ✅ |
+| Web Dashboard Verification | ![Brandfetch Dashboard Verification](_evidence/Brandfetch_Dashboard_xsunec_com_verified.png) | ✅ |
+| API Endpoint Response | ![API Unauthorized Response](_evidence/Brandfetch_API_Response_Unauthorized.png) | ✅ |
+| Public Assets on Pages | ![Public Assets on Pages](_evidence/Brandfetch_Public_Assets_on_Pages.png) | ✅ |
 | HTTPS + DNS Validation | DNS (CNAME) → `victorxsun.github.io` via Cloudflare | ✅ |
 
 📁 *Evidence files are stored in* `/integration/_evidence/` *(see repo structure)*
