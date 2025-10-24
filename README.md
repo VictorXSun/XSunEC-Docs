@@ -9,34 +9,36 @@ Official documentation, integration guides, and technical references for **XSunE
 
 ## Repository Map
 
-/integration/ # Third-party integrations (Brandfetch, Fiat24, …)
-/api/ # (Reserved) Public API references & examples
-/architecture/ # (Reserved) System overviews & diagrams
-/tutorials/ # (Reserved) How-to guides for partners/users
-/policies/ # (Reserved) Usage, security, compliance policies
+| Directory | Purpose |
+|------------|----------|
+| `/integration/` | Third-party integrations (Brandfetch, Fiat24, etc.) |
+| `/api/` | *(Reserved)* Public API references and examples |
+| `/architecture/` | *(Reserved)* System overviews and diagrams |
+| `/tutorials/` | *(Reserved)* How-to guides for partners or users |
+| `/policies/` | *(Reserved)* Usage, security, and compliance policies |
 
-**Current:**
-- `integration/Brandfetch_Integration_Guide.md`
-- `integration/Fiat24_Connection.md`
+**Current contents:**
+- [`integration/Brandfetch_Integration_Guide.md`](integration/Brandfetch_Integration_Guide.md)
+- [`integration/Fiat24_Connection.md`](integration/Fiat24_Connection.md)
 
 ---
 
 ## Source of Truth (SSOT)
 
-- Brand assets & Pages: **https://brand.xsunec.com**
-- Brand assets repo: **https://github.com/VictorXSun/XSunEC-BrandAssets**
+- Brand assets & Pages → [brand.xsunec.com](https://brand.xsunec.com)  
+- Brand assets repo → [github.com/VictorXSun/XSunEC-BrandAssets](https://github.com/VictorXSun/XSunEC-BrandAssets)
 
 ---
 
 ## Contact
 
-- 🌐 https://xsunec.com  
+- 🌐 [xsunec.com](https://xsunec.com)  
 - ✉️ victor@xsunec.com | ceo@xsunec.com | support@xsunec.com | sales@xsunec.com | marketing@xsunec.com  
-- 📞 +1 458 836 8672 (WhatsApp Biz: https://wa.me/14588368672)
+- 📞 +1 458 836 8672 (WhatsApp Biz: [wa.me/14588368672](https://wa.me/14588368672))
 
 ---
 
 ## License
 
-Unless otherwise stated, documentation in this repository is released under **MIT** with
-brand-specific restrictions as applicable for logos and trademarks (see BrandAssets repo).
+Unless otherwise stated, documentation in this repository is released under **MIT**
+with brand-specific restrictions for logos and trademarks (see BrandAssets repo).
