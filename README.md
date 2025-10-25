@@ -19,7 +19,11 @@ Official documentation, integration guides, and technical references for **XSunE
 
 **Current contents:**
 - [`integration/Brandfetch_Integration_Guide.md`](integration/Brandfetch_Integration_Guide.md)
-- [`integration/Fiat24_Connection.md`](integration/Fiat24_Connection.md)
+- [`integration/Fiat24_Connection.md`](integration/Fiat24_Connection.md) *(legacy v1.0)*
+- [`integration/Fiat24_Connection_Guide_v1.1.md`](integration/Fiat24_Connection_Guide_v1.1.md) *(current version)*
+
+
+
 
 ---
 
