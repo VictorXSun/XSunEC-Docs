@@ -80,7 +80,7 @@ The TXT record proves domain ownership and control under `xsunec.com` — a key 
 | Element | Description |
 |----------|--------------|
 | Account ID | #18602810 |
-| Login Email | victorxunmei@gmail.com |
+| Login Email | v***@gmail.com (redacted) |
 | Linked Wallet | `0x00cB...EcAECC` (Arbitrum chain) |
 | Fiat Balances | USD 12.38 / EUR 0.50 / CHF 0.00 / RMB 0.00 |
 | Card Status | Debit Card (active) |
