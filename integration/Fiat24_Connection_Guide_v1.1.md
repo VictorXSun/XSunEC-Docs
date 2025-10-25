@@ -96,6 +96,7 @@ The TXT record proves domain ownership and control under `xsunec.com` — a key 
 - Fiat24 integration does **not** transmit or expose private keys.  
 - API tests are performed without authentication for reachability proof only.  
 - DNS verification conforms to Cloudflare security baseline.  
+- All PII (emails, partial addresses, account identifiers) is redacted in the public version. Unredacted evidence is stored in a private compliance pack for audit on request. 
 
 **Regulatory alignment:**  
 > Swiss FINMA-registered Virtual Bank (Fiat24) + XSunEC self-owned domain control = compliant integration baseline.
@@ -107,7 +108,7 @@ The TXT record proves domain ownership and control under `xsunec.com` — a key 
 - Fiat24 Official: [https://www.fiat24.com](https://www.fiat24.com)  
 - Developer Docs: [https://api.fiat24.com](https://api.fiat24.com)  
 - GitHub Evidence Repo: [https://github.com/VictorXSun/XSunEC-Docs](https://github.com/VictorXSun/XSunEC-Docs)  
-- Brandfetch Integration (previous step): `/integration/Brandfetch_Integration_Guide.md`  
+- Brandfetch Integration (previous step): `/integration/Brandfetch_Integration_Guide.md`
 
 ---
 
