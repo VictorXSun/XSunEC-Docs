@@ -101,6 +101,7 @@ curl -v https://api.fiat24.com/v1/info
 - Fiat24 integration exposes **no private keys** or user data.  
 - API requests executed anonymously for verification only.  
 - DNS TXT record serves as digital ownership proof.  
+- All PII (emails, partial addresses, account identifiers) is redacted in the public version. Unredacted evidence is stored in a private compliance pack for audit on request. 
 
 > Compliance Reference: Swiss FINMA RegTech framework + GDPR Art. 25 (Data Protection by Design).
 
